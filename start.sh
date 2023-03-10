@@ -1,0 +1,1 @@
+go build && ./wechat_server run -c ./conf/demo.yaml

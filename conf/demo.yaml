@@ -1,0 +1,22 @@
+debug: true
+
+log:
+  level: "info"
+
+http:
+  addr: "0.0.0.0:55001"
+  log:
+    enable: true
+  api:
+    path: "api"
+
+redis:
+  host:
+  password:
+  db: 0
+
+officialAccountConfig:
+  appID:
+  appSecret:
+  token:
+  encodingAESKey:
